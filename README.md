@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a computer scientist student at the Technical University of Munich.
+My interests include stuff like cybersecurity, deep learning , complexity theory, formal verification, cooking and all sorts of things. I just use this account for my personal projects and handling my university stuff when I am working from different setups.  
 <!--
 **jeanBaptist3/jeanBaptist3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
